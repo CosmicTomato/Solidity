@@ -1,1 +1,3 @@
 # Solidity
+
+Collected solidity projects.
